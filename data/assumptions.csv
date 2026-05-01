@@ -1,0 +1,11 @@
+Stage,Population,Filter %,Source / Rationale
+Urban India Internet Users,480M,Starting point,"Urban pop 523M × smartphone penetration 77% (India Briefing, 2024)"
+Active Q-Comm Buyers,75M,~16% of urban internet users,Derived from combined daily orders: Blinkit 6L + Zepto 3L + Instamart 5L = 14L/day
+Health-Motivated (Protein/Fitness),22M,~29% of active q-comm buyers,67% national health-eating intent (Statista 2024) but conservative 29% for active fitness motivation on q-comm
+Open to Plant-Based Meat,7.5M,~34% of health-focused,Consistent with global flexitarian trial data — willing to trial occasionally
+Addressable Buyer Pool 2024,2.8M,~37% of open pool,Conservative given price barrier and limited SKU availability
+Avg Orders/Buyer/Year (2024),8,N/A,Trial-phase category; low frequency vs habit-formation categories
+Avg Order Value (2024),₹280,N/A,1-2 packs at ₹140-250 each; mid-market SKU pricing
+India Q-Comm Total GMV,"₹54,000 Cr (~$6.5B)",N/A,Industry reports 2024; vegan meat = ~1.2% of total
+Platform Commission,18-25% of GMV,N/A,Q-comm platform standard take rate + listing fees
+Sell-Through Threshold for Listing,60-70% per cycle,N/A,Platforms delist SKUs not meeting this; key risk for low-frequency categories
