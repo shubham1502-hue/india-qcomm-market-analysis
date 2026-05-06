@@ -2,6 +2,22 @@
 
 # India Q-Commerce Market Sizing — Vegan Meat
 
+## Problem This Solves
+
+Founders often size markets with top-down category reports that make every opportunity look huge. The real problem is finding the narrow reachable buyer pool and the assumptions that actually drive the wedge.
+
+## How It Helps
+
+- Shows a bottom-up market-sizing method for a specific q-commerce category: buyer funnel, adoption filters, order frequency, AOV, and GMV scenarios.
+- Separates theoretical market size from realizable platform opportunity so founders can make sharper channel and SKU decisions.
+- Provides a reusable notebook, assumptions file, and output chart structure for other category-sizing projects.
+
+## When To Fork This
+
+- Fork this if you are sizing a niche consumer category, q-commerce wedge, D2C opportunity, or investor market memo.
+- Fork it when a top-down TAM number is too broad to guide pricing, channel, or product prioritization.
+- Replace the assumptions CSV, buyer funnel filters, AOV/order assumptions, and competitor table with your own market.
+
 > "The vegan meat category on Indian quick commerce is a real but narrow opportunity — addressable GMV of ~₹627 Cr in 2024, growing to ~₹2,500 Cr by 2027. It will not become mass market. Two or three focused brands will be profitable. Most others will exit before 2027. Winning requires brutal prioritization on price, taste, and channel placement — not brand storytelling."
 
 ---
@@ -75,7 +91,7 @@ india-qcomm-market-analysis/
 ## How to Run
 
 ```bash
-git clone https://github.com/shubham1502/india-qcomm-market-analysis
+git clone https://github.com/shubham1502-hue/india-qcomm-market-analysis
 cd india-qcomm-market-analysis
 pip install pandas numpy matplotlib jupyter
 jupyter notebook notebooks/01_vegan_meat_market_sizing.ipynb
