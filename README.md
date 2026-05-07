@@ -32,12 +32,16 @@ This repo is designed to be forked into an internal company workflow. Fork it, r
 
 ## Minimum Edits To Make It Yours
 
-- data/assumptions.csv
-- market/funnel assumptions
-- source links
-- notebook title and chart labels
+Change these first:
 
-The fastest path is: fork the repo, replace the inputs above, run the demo or open the template, then adjust only the parts that reflect your company's workflow.
+| Edit | Where | Why |
+|---|---|---|
+| Replace market assumptions. | `data/assumptions.csv` | TAM, addressable buyers, and GMV depend on these inputs. |
+| Update funnel steps and conversion logic. | `notebooks/01_vegan_meat_market_sizing.ipynb` | Makes the sizing logic fit your market category. |
+| Replace source links and evidence notes. | `README.md` and notebook notes | Keeps the analysis credible for founder or investor review. |
+| Regenerate summary outputs and charts. | `outputs/summary_table.csv` and `outputs/market_sizing_charts.png` | Keeps public visuals consistent with edited assumptions. |
+
+You can leave the bottom-up sizing structure, chart layout, and output format alone on the first fork. Change assumptions first; only redesign the notebook after the sizing logic is validated.
 
 ## The Core Insight
 
