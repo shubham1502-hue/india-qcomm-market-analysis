@@ -22,6 +22,21 @@ Founders often size markets with top-down category reports that make every oppor
 
 ---
 
+## Use This In Your Company
+
+- Use it as a bottom-up market sizing template for category, city, channel, or wedge analysis.
+- Keep the assumption stack: broad market -> reachable users -> active buyers -> addressable GMV.
+- Replace q-commerce and vegan-meat assumptions with your own market, funnel, and sources.
+
+## Minimum Edits To Make It Yours
+
+- data/assumptions.csv
+- market/funnel assumptions
+- source links
+- notebook title and chart labels
+
+The fastest path is: fork the repo, replace the inputs above, run the demo or open the template, then adjust only the parts that reflect your company's workflow.
+
 ## The Core Insight
 
 Most analysts size this market top-down using vegan food projections. That overstates it. The right entry point is the **health-motivated flexitarian** — not the ideological vegan. These are 25–35 year-old urban professionals, gym-going, protein-tracking, consciously reducing meat for health, not ethics.
